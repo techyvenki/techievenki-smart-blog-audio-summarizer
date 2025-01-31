@@ -1,8 +1,8 @@
 # Smart Blog Audio Summarizer
 
-![Image](https://github.com/user-attachments/assets/f1ab4f4a-4bb4-409a-9d6b-35d525b574c5)
+![Image](https://github.com/user-attachments/assets/f1ab4f4a-4bb4-409a-9d6b-35d525b574c5){:width="300px"}
 
-![Image](https://github.com/user-attachments/assets/2ad884a1-e332-43dc-8094-317c5dea4026)
+![Image](https://github.com/user-attachments/assets/2ad884a1-e332-43dc-8094-317c5dea4026){:width="300px"}
 
 ## Overview
 Smart Blog Audio Summarizer is an innovative tool designed to enhance the accessibility and engagement of blog content. By leveraging advanced natural language processing techniques, this project enables users to summarize lengthy blog posts and convert them into audio format, making it easier for readers to consume content on-the-go.
